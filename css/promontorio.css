@@ -1,0 +1,54 @@
+/* HERO */
+.promontorio .hero {
+    background-image: url("../assets/img/hero/promontorio.jpeg");
+}
+
+/* PROMONTORIO CAPO MILAZZO */
+.promontorio-capo-milazzo {
+    margin-top: 90px;
+}
+
+/* SENTIERI */
+.sentieri {
+    margin-top: 105px;
+}
+.sentieri .section-image {
+    background-image: url("../assets/img/sections/sentieri.jpeg");
+}
+
+/* FONDALI */
+.fondali {
+    margin-top: 165px;
+}
+.fondali .section-image {
+    background-image: url("../assets/img/sections/fondali.jpeg");
+}
+
+/* UN PO’ DI FLORA E FAUNA */
+.flora-fauna {
+    margin-top: 168px;
+}
+.flora-fauna .gorgonie-gialle .section-image {
+    background-image: url("../assets/img/sections/gorgonia-gialla.jpeg");
+}
+.flora-fauna .gorgonie-bianche {
+    margin-top: 110px;
+}
+.flora-fauna .gorgonie-bianche .section-image {
+    background-image: url("../assets/img/sections/gorgonia-bianca.jpeg");
+}
+
+/* PESCI */
+.pesci {
+    margin-top: 108px;
+    margin-bottom: 170px;
+}
+.pesci .tonno .section-image {
+    background-image: url("../assets/img/sections/tonno.jpeg");
+}
+.pesci .barracuda-mediterraneo {
+    margin-top: 110px;
+}
+.pesci .barracuda-mediterraneo .section-image {
+    background-image: url("../assets/img/sections/barracuda-mediterraneo.jpeg");
+}

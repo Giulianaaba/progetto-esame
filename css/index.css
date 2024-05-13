@@ -1,0 +1,44 @@
+/* HOME PAGE HERO */
+.home .hero {
+    background-image: url("../assets/img/hero/home-page-hero.png");
+}
+.home .hero .hero-content {
+    text-align: left;
+    padding-bottom: 180px;
+}
+
+/* COS'È L'AMP */
+.cose-lamp {
+    margin-top: 78px;
+}
+
+/* CAPO MILAZZO */
+.capo-milazzo {
+    padding-top: 142px;
+}
+.capo-milazzo .section-image {
+    background-image: url("../assets/img/sections/capo-milazzo.jpeg");
+}
+
+/* A COSA SERVE */
+.a-cosa-serve {
+    padding-top: 235px;
+}
+
+.a-cosa-serve .section-image {
+    transform: translateY(-200px);
+}
+
+/* GUIDA MILAZZO */
+.guida-milazzo .section-image {
+    background-image: url("../assets/img/sections/guida-milazzo.jpeg");
+}
+
+/* LA BELLEZZA DEL TERRITORIO */
+.la-bellezza-del-territorio {
+    padding-top: 195px;
+}
+
+.la-bellezza-del-territorio .section-image {
+    transform: translateY(-200px);
+}
