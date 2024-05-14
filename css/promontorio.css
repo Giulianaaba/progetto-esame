@@ -1,6 +1,6 @@
 /* HERO */
 .promontorio .hero {
-    background-image: url("../assets/img/hero/promontorio.jpeg");
+    background-image: url("../assets/img/hero/promontorio.webp");
 }
 
 /* PROMONTORIO CAPO MILAZZO */
@@ -13,7 +13,7 @@
     margin-top: 105px;
 }
 .sentieri .section-image {
-    background-image: url("../assets/img/sections/sentieri.jpeg");
+    background-image: url("../assets/img/sections/promontorio/sentieri.webp");
 }
 
 /* FONDALI */
@@ -21,7 +21,7 @@
     margin-top: 165px;
 }
 .fondali .section-image {
-    background-image: url("../assets/img/sections/fondali.jpeg");
+    background-image: url("../assets/img/sections/promontorio/fondali.webp");
 }
 
 /* UN PO’ DI FLORA E FAUNA */
@@ -29,13 +29,13 @@
     margin-top: 168px;
 }
 .flora-fauna .gorgonie-gialle .section-image {
-    background-image: url("../assets/img/sections/gorgonia-gialla.jpeg");
+    background-image: url("../assets/img/sections/promontorio/gorgonia-gialla.webp");
 }
 .flora-fauna .gorgonie-bianche {
     margin-top: 110px;
 }
 .flora-fauna .gorgonie-bianche .section-image {
-    background-image: url("../assets/img/sections/gorgonia-bianca.jpeg");
+    background-image: url("../assets/img/sections/promontorio/gorgonia-bianca.webp");
 }
 
 /* PESCI */
@@ -44,11 +44,11 @@
     margin-bottom: 170px;
 }
 .pesci .tonno .section-image {
-    background-image: url("../assets/img/sections/tonno.jpeg");
+    background-image: url("../assets/img/sections/promontorio/tonno.webp");
 }
 .pesci .barracuda-mediterraneo {
     margin-top: 110px;
 }
 .pesci .barracuda-mediterraneo .section-image {
-    background-image: url("../assets/img/sections/barracuda-mediterraneo.jpeg");
+    background-image: url("../assets/img/sections/promontorio/barracuda-mediterraneo.webp");
 }
