@@ -27,14 +27,51 @@
                 <img class="navbar-logo" src="./assets/img/logo.png" />
             </a>
 
-            <!--/* NAVBAR LINK CONTAINER */-->
-            <div class="navbar-link-container">
-                <a href="promontorio.html" class="navbar-link"
-                    >PROMONTORIO CAPO MILAZZO</a
-                >
-                <a href="mappa-zonazione.html" class="navbar-link">MAPPA ZONAZIONE</a>
-                <a href="guida-milazzo.html" class="navbar-link">GUIDA MILAZZO</a>
-                <a href="galleria.html" class="navbar-link">GALLERIA</a>
+            <!--/* HAMBURGER MENU */-->
+            <button class="hamburger-menu" id="hamburger-menu">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+            </button>
+
+            <!--/* NAVBAR LINK CONTAINER - DESKTOP */-->
+            <div class="navbar-link-container menu-desktop">
+                <ul class="link-list">
+                    <li>
+                        <a href="promontorio.html" class="navbar-link"
+                            >PROMONTORIO CAPO MILAZZO</a
+                        >
+                    </li>
+                    <li>
+                        <a href="mappa-zonazione.html" class="navbar-link"
+                            >MAPPA ZONAZIONE</a
+                        >
+                    </li>
+                    <li>
+                        <a href="guida-milazzo.html" class="navbar-link">GUIDA MILAZZO</a>
+                    </li>
+                    <li><a href="galleria.html" class="navbar-link">GALLERIA</a></li>
+                </ul>
+            </div>
+
+            <!--/* NAVBAR LINK CONTAINER - MOBILE */-->
+            <div class="navbar-link-container menu-mobile">
+                <ul class="link-list">
+                    <li>
+                        <a href="promontorio.html" class="navbar-link"
+                            >PROMONTORIO CAPO MILAZZO</a
+                        >
+                    </li>
+                    <li>
+                        <a href="mappa-zonazione.html" class="navbar-link"
+                            >MAPPA ZONAZIONE</a
+                        >
+                    </li>
+                    <li>
+                        <a href="guida-milazzo.html" class="navbar-link">GUIDA MILAZZO</a>
+                    </li>
+                    <li><a href="galleria.html" class="navbar-link">GALLERIA</a></li>
+                </ul>
             </div>
         </nav>
 
@@ -143,7 +180,7 @@
                         così alla gestione sostenibile delle risorse marine.
                     </p>
 
-                    <a href="#" class="section-btn">READ MORE...</a>
+                    <a href="mappa-zonazione.html" class="section-btn">READ MORE...</a>
                 </div>
 
                 <!--/* SECTION IMAGE */-->
@@ -158,9 +195,7 @@
         <section class="guida-milazzo section">
             <div class="grid section-mask-row">
                 <!--/* SECTION IMAGE */-->
-                <div
-                    class="section-image section-image-mask section-image-square"
-                ></div>
+                <div class="section-image section-image-mask section-image-square"></div>
 
                 <!--/* SECTION */-->
                 <div class="section-container grid-6">
@@ -176,7 +211,7 @@
                         può raggiungere con i mezzi pubblici.
                     </p>
 
-                    <a href="#" class="section-btn">READ MORE...</a>
+                    <a href="guida-milazzo.html" class="section-btn">READ MORE...</a>
                 </div>
             </div>
         </section>
@@ -204,7 +239,7 @@
                         fondali verde smeraldo e secche piene di vita”.
                     </p>
 
-                    <a href="#" class="section-btn">READ MORE...</a>
+                    <a href="galleria.html" class="section-btn">READ MORE...</a>
                 </div>
 
                 <!--/* SECTION IMAGE */-->
@@ -250,4 +285,6 @@
             </div>
         </footer>
     </body>
+
+    <script src="js/mobile-menu.js"></script>
 </html>

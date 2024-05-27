@@ -9,7 +9,13 @@
 }
 
 .home .navbar .navbar-link-container {
-    grid-column: 7 / 13;
+    grid-column: 4 / 13;
+}
+
+@media screen and (min-width: 1240px) {
+    .home .navbar .navbar-link-container {
+        grid-column: 6 / 13;
+    }
 }
 
 /* COS'È L'AMP */
@@ -30,8 +36,10 @@
     padding-top: 235px;
 }
 
-.a-cosa-serve .section-image {
-    margin-top: -100px;
+@media screen and (min-width: 1024px) {
+    .a-cosa-serve .section-image {
+        margin-top: -100px;
+    }
 }
 
 /* GUIDA MILAZZO */
@@ -47,6 +55,8 @@
     padding-top: 195px;
 }
 
-.la-bellezza-del-territorio .section-image {
-    margin-top: -140px;
+@media screen and (min-width: 1024px) {
+    .la-bellezza-del-territorio .section-image {
+        margin-top: -140px;
+    }
 }

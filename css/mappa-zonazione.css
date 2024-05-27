@@ -2,3 +2,16 @@
 .mappa-zonazione .hero {
     background-image: url("../assets/img/hero/mappa-zonazione.webp");
 }
+
+.zonazione {
+    margin-top: 90px;
+}
+
+.mappa-zonazione-container {
+    position: relative;
+}
+
+.mappa-zonazione-container .mappa-zonazione {
+    width: 100%;
+    margin-top: 90px;
+}

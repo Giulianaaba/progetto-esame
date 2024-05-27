@@ -2,3 +2,23 @@
 .guida-milazzo .hero {
     background-image: url("../assets/img/hero/guida-milazzo.webp");
 }
+
+.guida-milazzo .section {
+    margin-top: 120px;
+}
+
+.guida-milazzo .snorkeling .section-image {
+    background-image: url("../assets/img/sections/guida-milazzo/snorkeling.webp");
+}
+
+.guida-milazzo .immersioni .section-image {
+    background-image: url("../assets/img/sections/guida-milazzo/immersioni.webp");
+}
+
+.guida-milazzo .gita-in-barca .section-image {
+    background-image: url("../assets/img/sections/guida-milazzo/gita-in-barca.webp");
+}
+
+.guida-milazzo .illusionville .section-image {
+    background-image: url("../assets/img/sections/guida-milazzo/illusionville.webp");
+}
